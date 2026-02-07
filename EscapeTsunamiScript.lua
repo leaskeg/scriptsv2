@@ -3,7 +3,7 @@
     Features:
     - Guaranteed Remote Collection
     - GUI Visible in CoreGui
-    - No Teleport
+    - No Teleports
 ]]
 
 local Players = game:GetService("Players")
